@@ -71,10 +71,7 @@ a:link {
 color : rgb(105, 105, 105);
 text-decoration: none;
 }
-a:visited {
-    color : rgb(142, 142, 142);
-    text-decoration: none;
-    }
+
     a:hover {
     color : rgb(107, 115, 224);
     text-decoration: underline;
